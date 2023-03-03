@@ -91,6 +91,6 @@
 
 # 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Novacci&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Novacci&theme=dracula)
 
 
