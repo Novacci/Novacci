@@ -10,7 +10,7 @@
 <br/><a href="https://www.linkedin.com/in/novacci"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:wojtekn00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-<a href="[Novacci.pl](https://novacci.pl/)"><img src="https://cdn.jsdelivr.net/gh/Novacci/Novacci@main/favicon.ico.png" height=15> Feel free to check my portfolio website</a>
+<a href="https://novacci.pl/"><img src="https://cdn.jsdelivr.net/gh/Novacci/Novacci@main/favicon.ico.png" height=15> Feel free to check my portfolio website</a>
 
 # 🔧 Technologies & Tools
 
