@@ -61,6 +61,15 @@
       />
       <br /><strong>Sass</strong>
     </td>
+         <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg"
@@ -88,6 +97,8 @@
       />
       <br /><strong>Firebase</strong>
     </td>
+  </tr>
+   <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-plain.svg"
@@ -105,8 +116,8 @@
         alt="npm"
       />
       <br /><strong>NPM</strong>
-   
-  </tr>
+   </tr>
+
 </table>
 
 # 📈 Stats
