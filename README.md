@@ -88,7 +88,10 @@
       />
       <br /><strong>Next.js</strong>
     </td>
-        <td align="center" height="108" width="108">
+       
+  </tr>
+   <tr>
+       <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/firebase/firebase-plain.svg"
         width="48"
@@ -97,8 +100,6 @@
       />
       <br /><strong>Firebase</strong>
     </td>
-  </tr>
-   <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-plain.svg"
